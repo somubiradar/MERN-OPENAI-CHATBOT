@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+
+# Environment files
+.env
+
+# Build files (if any)
+dist/
+
+# IDE/editor files
+.vscode/
