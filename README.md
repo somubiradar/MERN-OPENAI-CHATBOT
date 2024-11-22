@@ -7,8 +7,11 @@ An AI-powered chatbot built with MongoDB, Express.js, React.js (Vite), and Node.
 Features:
 
 ✨ Full-Stack Development: MERN stack implementation.
+
 🔒 Secure Authentication: JWT, HTTP-only cookies for user sessions.
+
 🎨 Responsive UI: Built with Material UI for a modern look.
+
 💾 Persistent Data: MongoDB stores chat history securely.
 
 Tech Stack:
